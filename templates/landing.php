@@ -50,6 +50,14 @@
           <button type="button" class="btn btn-primary" onclick="window.location.href='/login.php'">Log in</button>
         </div>
 
+        <div id="action-buttons">
+        <h4>HACKATHON JUDGES: LOG IN WITH THESE :)
+        </h4>
+        <button type="button" class="btn btn-primary" onclick="window.location.href='/login_student.php'">Log in as Student</button>
+
+          
+          <button type="button" class="btn btn-primary" onclick="window.location.href='/login_instructor.php'">Log in as Instructor</button>
+        </div>
         
     </div> <!-- /container -->
 
