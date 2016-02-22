@@ -1,0 +1,16 @@
+.container
+{
+    /* center contents */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.btn-block{
+    height: 50px;
+    font-size: 2rem;
+}
+
+.selected{
+    border: 3px solid rgba(0, 0, 0, 0.46);
+}

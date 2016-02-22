@@ -1,0 +1,41 @@
+h3
+{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 200;
+    font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1
+{
+    font-weight: 900;
+    text-align: center;
+    font-size: 7rem;
+    font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container
+{
+    /* center contents */
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#action-buttons
+{
+    padding-top: 70px;
+}
+
+#logo
+{
+    padding-left: 1em;
+    width: 6rem;
+    height: auto;
+}
+
+p
+{
+    max-width: 705px;
+    display: inline-block;
+}

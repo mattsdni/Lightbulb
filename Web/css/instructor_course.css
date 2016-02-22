@@ -1,0 +1,32 @@
+table {
+    width:100%;
+}
+
+td {
+    width:25%;
+}
+
+tr {
+   line-height: 100px;
+   min-height: 100px;
+   height: 100px;
+}
+
+.table td {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: "Lato", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.getting-it{
+    background-color:lightgreen;
+}
+
+.unsure{
+    background-color:#FFDF70; 
+}
+
+.lost{
+    background-color:lightcoral; 
+}
